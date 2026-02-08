@@ -32,20 +32,6 @@ Interested in Networking, Linux, low-level programming, and DevOps fundamentals.
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=S0uf12n8&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=S0uf12n8&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800"
-    height="150"
-  />
-</div>
-
----
 
 ### 🔗 Links
 

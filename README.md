@@ -50,7 +50,7 @@
 ### 🔗 Links
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/soufiane-oulkadi/" target="_blank">
+  <a href="https://www.linkedin.com/in/soufiane-oulkadi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:oulkadisoufiane69@gmail.com">

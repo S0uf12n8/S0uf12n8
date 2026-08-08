@@ -27,7 +27,7 @@ I care about understanding systems correctly, not just getting them to run.
 
 ### 🧰 Stack
 
-`Linux` · `Bash` · `Python` · `C` · `C++` · `Docker` · `Git` · `SQL`
+`Linux` · `Bash` · `Python` · `C` · `C++` · `Docker` · `Git` · `SQL`· `Anisble`
 
 *(Expanding into Ansible, Prometheus/Grafana, and CI/CD as projects land above.)*
 
@@ -36,8 +36,6 @@ I care about understanding systems correctly, not just getting them to run.
 ### 🔗 Links
 
 - LinkedIn: https://www.linkedin.com/in/soufiane-oulkadi
-- Email: oulkadisoufiane69@gmail.com
-
 ---
 
 > Background note: DTS in Systems & Networks; hands-on experience as a network/systems

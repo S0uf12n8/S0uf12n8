@@ -1,17 +1,15 @@
 ## Hi, I'm Soufiane 👋
 
-Network & systems technician and Computer Engineering student (Bac+2 DTS → Licence GI, Faculty of Taroudant).
+Network & systems technician and Computer Engineering student.
 I work with Linux, networking, and infrastructure day to day, and I'm building toward **DevOps / Infrastructure engineering**.
-
 I care about understanding systems correctly, not just getting them to run.
 
 ---
 
 ### 🔧 Currently building
 
-- A self-hosted **homelab** — Dockerized services behind a reverse proxy, with Prometheus + Grafana monitoring
-- A **networking lab** (routing, VLANs, firewalling) documented with topology diagrams
-- **ACOMED** — offline-first healthcare audit platform (React Native + Node.js/PostgreSQL) *(in development)*
+- **[homelab-as-code](https://github.com/S0uf12n8/homelab-as-code)** — Self-hosted homelab on Oracle Cloud, provisioned with Ansible: Linux hardening complete, Docker/reverse proxy/monitoring in progress, k3s + GitOps + Prometheus/Grafana/Loki planned
+- **[ACOMED](https://github.com/S0uf12n8/ACOMED)** — Offline-first healthcare audit platform (React Native + Node.js/PostgreSQL) *(in development)*
 
 ---
 
@@ -27,15 +25,16 @@ I care about understanding systems correctly, not just getting them to run.
 
 ### 🧰 Stack
 
-`Linux` · `Bash` · `Python` · `C` · `C++` · `Docker` · `Git` · `SQL`· `Anisble`
+`Linux` · `Bash` · `Python` · `C` · `C++` · `Docker` · `Ansible` · `Git` · `SQL`
 
-*(Expanding into Ansible, Prometheus/Grafana, and CI/CD as projects land above.)*
+*(Expanding into Kubernetes, Prometheus/Grafana, and CI/CD as projects land above.)*
 
 ---
 
 ### 🔗 Links
 
 - LinkedIn: https://www.linkedin.com/in/soufiane-oulkadi
+
 ---
 
 > Background note: DTS in Systems & Networks; hands-on experience as a network/systems
